@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    Web site com algo similar ao SuperTrunfo , está em processo de melhoria
+    Web site com algo similar ao SuperTrunfo , está em processo de melhoria.
 </p>
 
 
