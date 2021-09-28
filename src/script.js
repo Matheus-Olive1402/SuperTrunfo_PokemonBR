@@ -4,7 +4,7 @@ var Bulbassalto = {
   atributos: {
     Porte_do_homem: 5,
     Colete: 7,
-    BO: 6
+    BO: 5
   }
 };
 var Charmano = {
@@ -13,7 +13,7 @@ var Charmano = {
   atributos: {
     Porte_do_homem: 7,
     Colete: 6,
-    BO: 4
+    BO: 5
   }
 };
 var Squardocrime = {
